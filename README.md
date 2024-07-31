@@ -1,5 +1,6 @@
 
-# LeetCode Solutions ![LeetCode](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png)
+# LeetCode Solutions
+![LeetCode](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png)
 
 Welcome to the LeetCode Solutions repository! This repository contains my solutions to various LeetCode problems, implemented in Python. Each solution is well-documented and includes explanations to help understand the approach taken to solve the problem.
 
